@@ -5,4 +5,4 @@ Repositório criado para concluir o desafio de projeto de criar tela de login co
 :star2: Objetivos :star2:
 
 - [x] Criar Tela de Login com TypeScript
-- [x] Bloquear botão de login enquanto os campos estiverem vazios
+- [x] Bloquear botão de login enquanto os campos e-mail e senha não forem preenchidos
